@@ -1,3 +1,4 @@
+//STRING COMPARITION-EXERCISE
 import java.util.Scanner;
 class F1exercise1
 {
