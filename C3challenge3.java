@@ -1,3 +1,4 @@
+//using float to get score in decimal values
 import java.util.Scanner;
 class C3challenge3{
     public static void main(String args[])
