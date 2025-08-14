@@ -1,4 +1,4 @@
-
+//GETTING INPUT FOR A,B AND PRINTING IT
 import java.util.Scanner;
 
 class C0gettinginput
