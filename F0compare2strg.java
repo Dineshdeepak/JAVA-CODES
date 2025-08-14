@@ -1,4 +1,4 @@
-
+//STRING COMPARITION
 class F0compare2strg
 {
     public static void main(String args[])
