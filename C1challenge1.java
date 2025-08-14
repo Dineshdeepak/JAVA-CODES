@@ -1,3 +1,4 @@
+//GETTING INPUT FOR NAME,AGE,ADDRESS AND PRINTING IT
 import java.util.Scanner;
 class C1challenge1{
     public static void main(String args[]){
