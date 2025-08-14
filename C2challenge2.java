@@ -1,3 +1,4 @@
+// USING OPERATORS WITH VARIABLES
 import java.util.Scanner;
 class C2challenge2
 {
