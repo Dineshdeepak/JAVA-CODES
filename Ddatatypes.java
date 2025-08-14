@@ -1,3 +1,4 @@
+//DATA TYPES
 import java.util.Scanner;
 class Ddatatypes
 {
